@@ -1,0 +1,15 @@
+@import 'variables.scss';
+
+
+.main-layout{
+  min-height: 100vh;
+}
+
+
+.main-layout{
+  .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.2);
+  }
+}
